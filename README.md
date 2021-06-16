@@ -1,7 +1,7 @@
 # Jest Another RPG
 
 ## Description
-Node RPG that can be run within the terminal.
+Node RPG created using Inquirer and Object-Oriented Programming, which can be run within the terminal.
 
 
 
@@ -32,8 +32,6 @@ This is a Node application that leverages inquirer in order to create a role-pla
 
 You can find the deployed link and the repository link below:
 
-Deployed Link: [Deployed Link](https://cerafinn.github.io/jest-another-rpg)
-
 Repo Link: [Repo Link](https://github.com/cerafinn/jest-another-rpg)
 
 <br />
@@ -48,7 +46,7 @@ Repo Link: [Repo Link](https://github.com/cerafinn/jest-another-rpg)
 
 ## Screenshots
 
-![IMG](./assets/images/jest-another-rpg-screenshot.png)
+![IMG](./assets/images/jest-another-RPG-screenshot.png)
 
 ## Contributing
 
